@@ -1,0 +1,17 @@
+# PROGRAM 4
+
+**WAP THAT ACCEPTS A CHARACTER AND PERFORMS THE FOLLOWING**
+
+**A)PRINT WHETHER THE CHARACTER IS A LETTER OR NUMERIC DIGIT OR A SPECIAL CHARACTER**
+
+**B)IF THE CHARACTER IS A LETTER, PRINT WHETHER THE LETTER IS UPPERCASE OR LOWERCASE**
+
+**C)IF A CHARCTER IS A NUMERIC DIGIT ,PRINT ITS NAME IN TEXT**
+
+![p4 1](https://github.com/user-attachments/assets/88e2c617-8018-449e-9045-e7307c5415d8)
+
+![p4 2](https://github.com/user-attachments/assets/abb9ff08-9640-4558-9403-cd098ab28543)
+
+![p4 3](https://github.com/user-attachments/assets/f6fdd705-2709-4af3-9f87-339d8329eb26)
+
+![p4 4](https://github.com/user-attachments/assets/90630909-a527-4657-9cc5-e98a62cc18a9)
